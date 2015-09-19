@@ -5,6 +5,7 @@ def get_integer
 
 end
 
+
 loop do
 
 	int1 = get_integer
@@ -32,5 +33,3 @@ loop do
 	end 
 
 end 
-
-
